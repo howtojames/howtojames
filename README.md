@@ -10,9 +10,7 @@ email: jrjamesruan@gmail.com
 ### Tech Stack ###
 
 
-Languages: 
-
-JavaScript   |   Python   |   SQL   |   HTML5   |   CSS3   |   C++   |   Java
+Languages:   JavaScript   |   Python   |   SQL   |   HTML5   |   CSS3   |   C++   |   Java
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -22,17 +20,13 @@ JavaScript   |   Python   |   SQL   |   HTML5   |   CSS3   |   C++   |   Java
 </div>
 
 
-Frameworks, ORM, Tools :  
-
-React  |   Redux  |  Express   |   Sequelize   |   Flask   |   SQLAlchemy   |   PostgreSQL  
+Frameworks, ORM, Tools :   React  |   Redux  |  Express   |   Sequelize   |   Flask   |   SQLAlchemy   |   PostgreSQL  
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
 
-File + Web Hosting, Containers, Testing:
-
-AWS S3   |  Render   |   Docker   |   Mocha   |   Cypress
+File + Web Hosting, Containers, Testing:   AWS S3   |  Render   |   Docker   |   Mocha   |   Cypress
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
