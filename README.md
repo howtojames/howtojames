@@ -14,9 +14,9 @@ JavaScript   |   Python   |   SQL   |   HTML5   |   CSS3   |   C++   |   Java
 
 React  |   Redux  |  Express   |   Sequelize   |   Flask   |   SQLAlchemy   |   PostgreSQL  
 
-File + Web Hosting, Containers, Testing:
+- File + Web Hosting, Containers, Testing:
 
--AWS S3   |  Render   |   Docker   |   Mocha   |   Cypress
+AWS S3   |  Render   |   Docker   |   Mocha   |   Cypress
 
 <!--
 **howtojames/howtojames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
