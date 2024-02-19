@@ -4,6 +4,8 @@ Hello, my name is James. I am a graduate with a degree in Applied Mathematics an
 
 Enjoying the process of planning page layouts and producing them in code, I take pride in my capstone project, which blends all of my cumulative technical knowledge with a touch of creativity. I'm on the lookout for opportunities with companies using technologies I’m familiar with such as React, javascript, and python, and I’m also eager to learn new ones. Beyond tech, my interest lies in self-growth, which seamlessly compliments my professional career, creating a feedback relationship that enriches both my work and life.
 
+email: jrjamesruan@gmail.com
+
 <!--
 **howtojames/howtojames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
