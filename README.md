@@ -6,17 +6,17 @@ Enjoying the process of planning page layouts and producing them in code, I take
 
 email: jrjamesruan@gmail.com
 
-Languages: 
+- Languages: 
 
 JavaScript   |   Python   |   SQL   |   HTML5   |   CSS3   |   C++   |   Java
 
-Frameworks, ORM, Tools :  
+- Frameworks, ORM, Tools :  
 
 React  |   Redux  |  Express   |   Sequelize   |   Flask   |   SQLAlchemy   |   PostgreSQL  
 
 File + Web Hosting, Containers, Testing:
 
-AWS S3   |  Render   |   Docker   |   Mocha   |   Cypress
+-AWS S3   |  Render   |   Docker   |   Mocha   |   Cypress
 
 <!--
 **howtojames/howtojames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
