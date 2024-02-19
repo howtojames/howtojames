@@ -6,6 +6,8 @@ Enjoying the process of planning page layouts and producing them in code, I take
 
 email: jrjamesruan@gmail.com
 
+Languages: JavaScript | Python | SQL | HTML5 | CSS3 | C | Javascript
+
 <!--
 **howtojames/howtojames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
